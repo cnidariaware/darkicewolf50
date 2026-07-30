@@ -109,10 +109,10 @@
 
 ## Socials
 
-- <img src="https://darkicewolf50.dev/favicon.png" width="20" height="20" alt="darkicewolf50 website logo">&nbsp;&nbsp;**Website**&nbsp;&nbsp; - &nbsp; <a href="https://darkicewolf50.dev" rel="me">darkicewolf50.dev</a>
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail" />&nbsp;&nbsp;**Email**&nbsp;&nbsp; - &nbsp; <a href="mailto:brock@darkicewolf50.dev" rel="me">brock@darkicewolf50.dev</a>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/forgejo/forgejo-original.svg" width="20" height="20" alt="forgejo" />&nbsp;&nbsp;**Forgejo**&nbsp;&nbsp; - &nbsp; <a href="https://forge.ucalgarybaja.ca/darkicewolf50" rel="me">darkicewolf50</a>
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20" alt="github" />&nbsp;&nbsp;**GitHub**&nbsp;&nbsp; - &nbsp; <a href="https://github.com/darkicewolf50" rel="me">darkicewolf50</a>
+- <img src="https://brock.cnidariaware.ca/favicon.png" width="20" height="20" alt="darkicewolf50 website logo">&nbsp;&nbsp;**Website**&nbsp;&nbsp; - &nbsp; <a href="https://brock.cnidariaware.ca" rel="me">brock.cnidariaware.ca</a>
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="20" alt="gmail" />&nbsp;&nbsp;**Email**&nbsp;&nbsp; - &nbsp; <a href="mailto:brock@cnidariaware.ca" rel="me">brock@cnidariaware.ca</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/forgejo/forgejo-original.svg" width="20" height="20" alt="forgejo" />&nbsp;&nbsp;**Forgejo**&nbsp;&nbsp; - &nbsp; <a href="https://forge.cnidariaware.ca/cnidariaware" rel="me">cnidariaware</a>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="20" height="20" alt="github" />&nbsp;&nbsp;**GitHub**&nbsp;&nbsp; - &nbsp; <a href="https://github.com/darkicewolf50" rel="me">cnidariaware</a>
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin" />&nbsp;&nbsp;**LinkedIn**&nbsp;&nbsp; - &nbsp; <a href="https://www.linkedin.com/in/brock-tomlinson" rel="me">brock-tomlinson</a>
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="20" height="20" alt="twitch" />&nbsp;&nbsp;**Twitch**&nbsp;&nbsp; - &nbsp; <a href="https://www.twitch.tv/darkicewolf50" rel="me">darkicewolf50</a>
 - <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="20" height="20" alt="youtube" />&nbsp;&nbsp;**YouTube**&nbsp;&nbsp; - &nbsp; <a href="https://www.youtube.com/@darkicewolf50" rel="me">@darkicewolf50</a>
