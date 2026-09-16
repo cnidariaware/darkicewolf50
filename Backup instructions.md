@@ -23,3 +23,19 @@ gpg --card-status
 git config --global user.signingkey 48489624F69EAF4A
 git config --global commit.gpgsign true
 ```
+
+# SSH Key
+
+```bash
+ssh-keygen -K
+```
+
+```bash
+nano ~/.ssh/config
+```
+
+```sshconfig
+Host *
+    IdentityFile ~/.ssh/id_ed25519_yubikey
+    IdentitiesOnly yes
+```
